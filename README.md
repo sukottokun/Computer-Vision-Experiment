@@ -1,6 +1,6 @@
 # Computer Vision Projects
 
-Welcome to the **Computer Vision Projects** repository! This collection of projects demonstrates the power of computer vision techniques applied to real-world problems. From image classification to object detection, each project is designed to help you explore and learn the fundamentals of computer vision.
+
 
 ## Table of Contents
 - [About](#about)
@@ -12,13 +12,6 @@ Welcome to the **Computer Vision Projects** repository! This collection of proje
 - [License](#license)
 - [Contact](#contact)
 
-## About
-
-This repository contains a diverse range of computer vision projects that utilize state-of-the-art models and libraries. Each project is structured with clean and well-documented code, making it easy to understand and replicate the results.
-
-Whether you're a beginner looking to learn the basics or an experienced practitioner, these projects will help you deepen your knowledge of computer vision concepts such as image recognition, segmentation, and object detection.
-
-## Projects
 
 ### 1. **Image Classification**
    - **Description**: A project that classifies images into predefined categories using convolutional neural networks (CNNs).
